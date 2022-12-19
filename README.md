@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://anon.tk/">
-<img height="128" src="https://anon.tk/images/anon-logo-color.svg">
+<img height="128" src="https://github.com/anunicn47/ANON/images/anon-logo-color.svg">
 </a>
 </div>
 <h1 align="center">

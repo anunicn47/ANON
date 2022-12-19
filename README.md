@@ -7,11 +7,6 @@
 <a href="https://anon.tk/">ANON</a>
 </h1>
 <p align="center">
-<img alt="Languages" src="https://img.shields.io/badge/languages available -1-ffdb56">
-<a href="https://github.com/kkara9009/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/kkara9009?color=ff5c5c"></a>
-<a href="https://github.com/kkara9009/blob/master/LICENSE.md" target="_blank"><img alt="License" src="https://img.shields.io/github/license/kkara9009?color=37bf5d"></a>
-<a href="https://patreon.com/lucasm" target="_blank"><img alt="Patrons" src="https://img.shields.io/badge/patrons -3-1491de"></a>
-<a href="https://discord.gg/JgmDXhGP" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/866829154032812073?color=ff6485"></a>
 
 
 </p>
